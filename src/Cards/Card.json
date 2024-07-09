@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "plan": "FREE",
+    "price": 0,
+    "features": [
+      { "title": "single user", "isEnabled": true },
+      { "title": "50 GB Storage", "isEnabled": true },
+      { "title": "Unlimited Public Projects", "isEnabled": true },
+      { "title": "Community Access", "isEnabled": true },
+      { "title": "Unlimited Private Access", "isEnabled": false },
+      { "title": "Dedicated Phone Support", "isEnabled": false },
+      { "title": "Free SubDomain", "isEnabled": false },
+      { "title": "Monthly status Report", "isEnabled": false }
+    ],
+    "btns": { "title": "Button", "isEnable": false }
+  },
+
+  {
+    "id": 2,
+    "plan": "PLUS",
+    "price": 9,
+    "features": [
+      { "title": "5 Users", "isEnabled": true },
+      { "title": "50GB Storage", "isEnabled": true },
+      { "title": "Unlimited Public Projects", "isEnabled": true },
+      { "title": "Community Access", "isEnabled": true },
+      { "title": "Unlimited Private Access", "isEnabled": true },
+      { "title": "Dedicated Phone Support", "isEnabled": true },
+      { "title": "Free SubDomain", "isEnabled": true },
+      { "title": "Monthly status Report", "isEnabled": false }
+    ],
+    "btns": { "title": "Button", "isEnable": false }
+  },
+
+  {
+    "id": 3,
+    "plan": "PRO",
+    "price": 49,
+    "features": [
+      { "title": "Unlimited Users", "isEnabled": true },
+      { "title": "50 GB Storage", "isEnabled": true },
+      { "title": "Unlimited Public Projects", "isEnabled": true },
+      { "title": "Community Access", "isEnabled": true },
+      { "title": "Unlimited Private Project", "isEnabled": true },
+      { "title": "Dedicated Phone Support", "isEnabled": true },
+      { "title": "Free SubDomain", "isEnabled": true },
+      { "title": "Monthly status Report", "isEnabled": true }
+    ],
+    "btns": { "title": "Button", "isEnable": true }
+  }
+]
